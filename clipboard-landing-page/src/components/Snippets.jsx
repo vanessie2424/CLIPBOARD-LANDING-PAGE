@@ -10,7 +10,7 @@ function Snippets(){
                 Our Mac and iOS apps will help you organize everything. 
             </p>
             <div className="snippet_container">
-           <img src="./src/images/image-computer.png" className="image_snippet"/>
+           <img src="./images/image-computer.png" className="image_snippet"/>
                 
                 <div className="snippet_content">
                     <div className="content">
