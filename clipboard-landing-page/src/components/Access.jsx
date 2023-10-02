@@ -4,7 +4,7 @@ function Access (){
         <>
          <section className="section_access">
             <h2>Access Clipboard anywhere </h2>
-            <p>Whether you’re on the go, or at your computer, you can access all your 
+            <p animate__animated animate__fadeInRight>Whether you’re on the go, or at your computer, you can access all your 
                 Clipboard snippets in a few simple clicks. 
             </p>
             <img src="images/image-devices.png" className="image_access" />

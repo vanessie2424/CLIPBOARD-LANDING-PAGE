@@ -5,7 +5,7 @@ function Snippets(){
         <>
         <section className="section_snippet">
             <h2>Keep track of your snippets</h2>
-            <p>Clipboard instantly stores any item you copy in the cloud, 
+            <p className="animate__animated animate__fadeInLeft">Clipboard instantly stores any item you copy in the cloud, 
                 meaning you can access your snippets immediately on all your devices.
                 Our Mac and iOS apps will help you organize everything. 
             </p>
