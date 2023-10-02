@@ -17,17 +17,17 @@ function App() {
     <Access/>
     <div className="tools">
     <Tool
-      img = "./images/icon-blacklist.svg"
+      img = "images/icon-blacklist.svg"
       tooltext = "Create blacklists"
       toolcontext = "Ensure sensitive information never makes its way to your clipboard by excluding certain sources."
     />
      <Tool
-      img = "./images/icon-text.svg"
+      img = "images/icon-text.svg"
       tooltext = "Plain text snippets "
       toolcontext = "Remove unwanted formatting from copied text for a consistent look."
     />
      <Tool
-      img = "./images/icon-preview.svg"
+      img = "images/icon-preview.svg"
       tooltext = "Sneak preview"
       toolcontext = "Quick preview of all snippets on your Clipboard for easy access."
     />

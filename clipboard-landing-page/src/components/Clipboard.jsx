@@ -5,11 +5,11 @@ function Clipboard(){
         <>
         <div>
             <div className="clipboard-image">
-            <img src="./images/logo-google.png"/>
-            <img src="./images/logo-ibm.png" />
-            <img src="./images/logo-microsoft.png" />
-            <img src="./imagess/logo-hp.png" />
-            <img src="./images/logo-vector-graphics.png" />
+            <img src="images/logo-google.png"/>
+            <img src="images/logo-ibm.png" />
+            <img src="images/logo-microsoft.png" />
+            <img src="imagess/logo-hp.png" />
+            <img src="images/logo-vector-graphics.png" />
             </div>
 
             <div className="clipboard-content">

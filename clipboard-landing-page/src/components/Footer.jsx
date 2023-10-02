@@ -9,7 +9,7 @@ function Footer(){
     return(
         <>
         <div className="footer-container">
-            <img src="./images/logo.svg" />
+            <img src="images/logo.svg" />
             <div className="links">
                 <div className="link1">
                 <li> <a href="#"> FAQs </a></li>   
